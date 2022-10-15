@@ -17,7 +17,7 @@
 		<OutputPath>bin\$(Configuration)\</OutputPath>
 		<Authors>Mario Martinez, Alexandra Kyluk, Aleksey Sidorov, Egor Krivoshapka</Authors>
 		<Company>iLovePDF</Company>
-		<PackageId>ILove_PDF</PackageId>
+		<PackageId>ILove_PDF_test</PackageId>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageProjectUrl>https://github.com/ilovepdf/ilovepdf-net</PackageProjectUrl>
 		<PackageReleaseNotes>- Fixed problem (finally) with the missed JWT expiration time checking.</PackageReleaseNotes>

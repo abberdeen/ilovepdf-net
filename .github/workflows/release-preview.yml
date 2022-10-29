@@ -53,7 +53,7 @@ jobs:
     - name: Build
       run: dotnet build -c Release -p:Version=${{ env.RELEASE_VERSION }}
       
- #   - name: Test
+   #- name: Test
    #   run: dotnet test --no-restore --verbosity normal
       
     - name: Push to NuGet
